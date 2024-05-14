@@ -1,3 +1,3 @@
-# Prpjects
+# Projects
 
 Student Management System
